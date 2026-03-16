@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+          xsi:noNamespaceSchemaLocation="usuarios.xsd">
+    
+    <usuario>
+        <nombreUsuario>jgarcia88</nombreUsuario>
+        <email>jorge.garcia@gmail.es</email>
+        <telefono>+34 600123456</telefono>
+        <codigoPostal>41013</codigoPostal>
+        <contrasena>Abc123!_</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>marta_v</nombreUsuario>
+        <email>marta.velasco@gmail.com</email>
+        <telefono>954123456</telefono>
+        <codigoPostal>28001</codigoPostal>
+        <contrasena>Password.2026</contrasena>
+    </usuario>
+
+</usuarios>
